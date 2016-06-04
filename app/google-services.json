@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "267313358926",
+    "firebase_url": "https://brilliant-heat-67.firebaseio.com",
+    "project_id": "brilliant-heat-67",
+    "storage_bucket": "brilliant-heat-67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267313358926:android:34ee696107339cc5",
+        "android_client_info": {
+          "package_name": "com.tranetech.bannerexcample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267313358926-75esc67325vhcaioqu5j3e6fuqc17r1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSr5WR94JgHDvxvqDvuGInqvyywHPglrI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
